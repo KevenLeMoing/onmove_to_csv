@@ -7,7 +7,7 @@ requirements = ["ipython>=6", "nbformat>=4", "nbconvert>=5", "requests>=2"]
 
 setup(
     name="pyonmove",
-    version="0.0.1",
+    version="0.0.2",
     author="Keven Le Moing",
     author_email="keven.lemoing@gmail.com",
     description="A package to convert your OnMove activity data into into csv file",
